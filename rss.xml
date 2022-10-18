@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Oct 2022 12:39:41 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Oct 2022 12:45:36 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[1.2 매뉴얼과 명세서 명세서 사용설명서 https://www.ecma-international.org/publications-and-standards/standards/ecma-262/ 매뉴얼 명세서에 대해 좀 더 읽기 쉽게 https…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/매뉴얼과 명세서/매뉴얼과 명세서/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/매뉴얼과 명세서/매뉴얼과 명세서/</guid><content:encoded>&lt;h1&gt;1.2 매뉴얼과 명세서&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;명세서
+&lt;ul&gt;
+&lt;li&gt;사용설명서&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ecma-international.org/publications-and-standards/standards/ecma-262/&quot;&gt;https://www.ecma-international.org/publications-and-standards/standards/ecma-262/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;매뉴얼
+&lt;ul&gt;
+&lt;li&gt;명세서에 대해 좀 더 읽기 쉽게&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference&quot;&gt;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;호환성
+&lt;ul&gt;
+&lt;li&gt;자바스크립트 버전에 따라 제공하는 기능이 다르다. 또한 브라우저도 모든 버전의 자바스크립트를 지원하는 것이 아니므로 특정 브라우저가 어느 버전의 자바스크립트 기능을 지원하는지 확인할 필요가 있다.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://caniuse.com/&quot;&gt;http://caniuse.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
